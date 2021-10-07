@@ -10,3 +10,8 @@ American Sign Language Detection for visually impaired people.
   
 ## Dataset:
 https://www.kaggle.com/grassknoted/asl-alphabet
+
+
+## Contributors
+ - Rushikesh Jadhav
+ - Ishan Jawade
